@@ -95,7 +95,7 @@ Cybernews
 相比人工搜索记录的方式，自动化方案能够显著提升效率，并支持长期持续监测。
 
 ## 视频
-> [video(video-TAZX38Ff-1784893395775)(type-csdn)(url-https://live.csdn.net/v/embed/536597)(image-https://v-blog.csdnimg.cn/asset/eac6e05feebf7d3a75e50e313285d55b/cover/Cover0.jpg)(title-)]
+> https://vdn6.vzuu.com/FHD/4c53e910-8755-11f1-beff-220ecaa5f889-v8_f2_t1_3BZMBNt2.mp4?pkey=AAVI8Rm7jcUgOqBs3-DddhmkAyC_LOtEkkcNGOqRTdnm3OLM-mRMdwfb8zDXUN-GA83si3lE9TGT6gHTlCvcpl46&bu=09fd86c2&c=avc.8.0&expiration=1784901105&f=mp4&pu=e59e796c&v=ks6&pp=ChMxNDAxNjIzODY1NzM5NTc5MzkyGGMiC2ZlZWRfY2hvaWNlMhMxMzY5MDA1NjA4NTk5OTA0MjU3PXu830Q%3D&pf=Web&pt=zhihu
 
 ## 总结
 
